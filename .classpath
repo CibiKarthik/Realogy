@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Softwares/Eclipse/Eclipse lib/selenium-java-3.141.59/client-combined-3.141.59.jar" sourcepath="D:/Softwares/Eclipse/Eclipse lib/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Eclipse/Eclipse lib/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Eclipse/Eclipse lib/selenium-java-3.141.59/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Eclipse/Eclipse lib/selenium-java-3.141.59/jplanets-fileutils-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Eclipse/Eclipse lib/selenium-java-3.141.59/jplanets-logging-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Eclipse/Eclipse lib/selenium-java-3.141.59/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Eclipse/Eclipse lib/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Eclipse/Eclipse lib/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Eclipse/Eclipse lib/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Eclipse/Eclipse lib/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Softwares/Eclipse/Eclipse lib/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Eclipse lib/testng jars/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Eclipse lib/testng jars/ant-1.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Eclipse lib/testng jars/ant-launcher-1.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Eclipse lib/testng jars/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Eclipse lib/testng jars/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Eclipse lib/testng jars/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Eclipse lib/testng jars/guava-25.1-android.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Eclipse lib/testng jars/guice-4.2.2-no_aop.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Eclipse lib/testng jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Eclipse lib/testng jars/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Eclipse lib/testng jars/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Eclipse lib/testng jars/jcommander-1.78.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Eclipse lib/testng jars/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Eclipse lib/testng jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Eclipse lib/testng jars/snakeyaml-1.21.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse/Eclipse lib/testng jars/testng-7.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
