@@ -30,7 +30,7 @@ public class Registration {
 	private static String test;
 	private static String featureBranch;
 	private static String github;
-	public static String sprint2;
+	public static String sprint2;	
 	public static int sprint3;
 
 	public void sprint2Method(){
