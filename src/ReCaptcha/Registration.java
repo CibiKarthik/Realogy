@@ -31,7 +31,6 @@ public class Registration {
 	private static String featureBranch;
 	private static String github;
 	public static String sprint2;
-	private static String sprint2;
 	
 	public void sprint2Method(){
 		//Sprint 2 Method
