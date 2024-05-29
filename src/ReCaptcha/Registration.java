@@ -36,7 +36,12 @@ public class Registration {
 	public void sprint2Method(){
 		//Sprint 2 Method
 	}
-	
+
+	public void sprint3Method(){
+		//Sprint 1 Method
+		//Sprint 2 Method
+		//Sprint 3 Method	
+	}
 
 	public static void main(String[] args)  throws Exception {
 
