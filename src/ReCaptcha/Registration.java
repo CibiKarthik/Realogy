@@ -37,6 +37,9 @@ public class Registration {
 		//Sprint 2 Method
 	}
 	
+	public void sprint4Method(){
+		//Sprint 4 Method
+	}
 
 	public static void main(String[] args)  throws Exception {
 
