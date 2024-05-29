@@ -30,6 +30,12 @@ public class Registration {
 	private static String test;
 	private static String featureBranch;
 	private static String github;
+	private static String sprint2;
+	
+	public void sprint2Method(){
+		//Sprint 2 Method
+	}
+	
 
 	public static void main(String[] args)  throws Exception {
 
