@@ -27,7 +27,7 @@ public class Registration {
 	private static String newSignupURL = "/registration/register_all.jsp?metro=phoenix";
 	private static String c21Check = "//input[@class= 'form-std__cb-highlight']";
 	private static String iframe = "//iframe[not(contains(@style,'width: 100%; height: 100%;'))][@title='recaptcha challenge']";
-	
+	private static String test;
 	
 
 	public static void main(String[] args)  throws Exception {
