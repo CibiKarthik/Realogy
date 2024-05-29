@@ -29,7 +29,7 @@ public class Registration {
 	private static String iframe = "//iframe[not(contains(@style,'width: 100%; height: 100%;'))][@title='recaptcha challenge']";
 	private static String test;
 	private static String featureBranch;
-	
+	private static String github;
 
 	public static void main(String[] args)  throws Exception {
 
